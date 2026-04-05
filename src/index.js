@@ -1,3 +1,5 @@
+'use strict';
+
 const choice = prompt("Введіть значення від 0 до 7 ( без пробілів! ) : ");
 
 switch (choice) {
